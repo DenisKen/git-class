@@ -11,4 +11,9 @@ Continuando o trabalho
 
 MUDANÇAS
 
+<<<<<<< HEAD
 CAOS
+=======
+
+asdasdasddas
+>>>>>>> 6409182706d209c0d45388d6fc8ad560a6ed94a7
